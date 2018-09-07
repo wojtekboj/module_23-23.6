@@ -1,0 +1,9 @@
+/* Kanban styles */
+.kanban {
+  text-align: center;
+}
+
+.AddLane {
+  color: deepskyblue;
+  margin-bottom: 2rem;
+}
