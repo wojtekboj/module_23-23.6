@@ -1,7 +1,7 @@
-import React, { PropTypes } from 'react';
+import PropTypes from 'prop-types';
 import Lane from './LaneContainer.js';
 import styles from './Lane.css';
-
+import React  from 'react';
 
 const Lanes = ({ lanes }) => {
   return (

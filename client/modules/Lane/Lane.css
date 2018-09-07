@@ -6,22 +6,25 @@
 
 .Lane {
   color: deepskyblue;
-  border: 1px solid black;
   margin: 0 1rem;
+  padding: 10px;
+  background-color: #e2e4e6;
+  border-radius: 5px;
+  width: 250px;
 }
 
 .LaneHeader {
-  color: deepskyblue;
+
 }
 
 .LaneAddNote {
-  color: deepskyblue;
+
 }
 
 .LaneName {
-  color: deepskyblue;
+
 }
 
 .LaneDelete {
-  color: deepskyblue;
+
 }
